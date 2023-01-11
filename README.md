@@ -53,4 +53,4 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - Sesión 1
 
 ## Déjanos saber que hiciste el curso
-Llena el siguiente formulario para que la persona que evalúe tu prueba técnica y entrevista sepa que hiciste el curso de preparación. [Informar que hice el curso de preparación](https://forms.gle/vSkhTcRKKPKKT1NL9)
+Llena el siguiente formulario para que la persona que evalúe tu prueba técnica y entrevista sepa que hiciste el curso de preparación. [Informar que hice el curso de preparación](https://docs.google.com/forms/d/e/1FAIpQLScJLVaj_c6Org9MDswrfstbD-AZiTVKaRy-rIowgGiSBitYlg/viewform)
