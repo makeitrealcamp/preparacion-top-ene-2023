@@ -8,4 +8,8 @@
 
 [Sesion 4: Flujos y funciones - más de ciclos y vectores](https://makeitreal.s3.amazonaws.com/videos/88075608644/2023-01-19/b48Q31dvx.mp4)
 
+[Sesion 5: Errores comunes, como resolver problemas de software](https://makeitreal.s3.amazonaws.com/videos/88075608644/2023-01-21/j7zBEyBuM.mp4)
+
+
+
 
